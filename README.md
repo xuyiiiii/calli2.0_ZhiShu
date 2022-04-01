@@ -22,3 +22,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+# 其他
+
+Calligraphy1.0版本笔画之间：https://github.com/xuyiiiii/calli1.0_BiHuaZhiJian
